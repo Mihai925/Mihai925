@@ -92,8 +92,8 @@ Medusa ships with an in-memory event bus, which means events die with the proces
 | 2022 – 2025 | **Splunk** · Senior Software Engineer | Ingest Protocols &amp; Services |
 | 2020 – 2022 | **Google** · Software Engineer | Storage @ GCP |
 | 2019 – 2020 | **AWS** · SDE II | Lambda control plane |
-| 2018 – 2019 | **Amazon** · SDE II, Seattle | Alexa international expansion |
-| 2015 – 2018 | **Amazon** · SDE, London | Alexa on third-party devices |
+| 2018 – 2019 | **Amazon** · SDE II, Seattle | Alexa |
+| 2015 – 2018 | **Amazon** · SDE, London | Vendor technologies |
 
 🎓 Imperial College London. The work was mostly distributed systems, control planes and data ingest at scale.
 
