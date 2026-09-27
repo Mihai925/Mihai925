@@ -57,7 +57,7 @@ Most storefront chatbots will cheerfully invent a price or a return window. Chat
 
 Every incumbent charges you by the size of your list, including the people who already unsubscribed. AguMail bills only for contacts who actually want your email, and sends are unlimited on every paid plan. It runs on SES, where a thousand emails cost about ten cents.
 
-- ♾️ **Unlimited sends** on every paid plan, priced on *active* contacts only
+- ♾️ **Fast onboarding** onboard in 30 minutes, no need for a marketing team
 - 🛒 **Ecommerce flows** for abandoned cart, browse abandon, win-back, replenishment and cross-sell
 - 🔮 **Predictive segmentation** using RFM, lifetime value and churn risk
 - 💌 **Deliverability suite** with MX validation, disposable-domain screening and reputation monitoring
