@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/mihaijiplea"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mihai@jiplea.com"><img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://chatbuster.com"><img src="https://img.shields.io/badge/chatbuster.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chatbuster.com"></a>
-<img src="https://img.shields.io/badge/agumail.com-coming_soon-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="agumail.com, coming soon">
+<a href="https://agumail.com"><img src="https://img.shields.io/badge/agumail.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="agumail.com"></a>
 
 </div>
 
@@ -27,6 +27,25 @@ I use AI daily, but I use it the right way. I have some simple rules to avoid sl
 - 🎯 **Never let it get creative.** A model is built to reproduce patterns, not to think, so originality is not a thing you can request. Work out the best approach yourself, then hand it over as the pattern to imitate.
 - 🛡️ **Guardrail everything.** Every byte a model reads is untrusted input. Assume prompt injection is coming and make sure that when it lands, there is nothing behind it worth reaching.
 - 🔍 **Own the architecture.** Read every line before it ships and understand why it is there. The model types faster than I do, but it is not the one accountable for the system.
+
+<br>
+
+## 🟢 AguMail · live
+
+**Ecommerce email marketing without the enterprise price tag.**
+
+Every incumbent charges you by the size of your list, including the people who already unsubscribed. AguMail bills only for contacts who actually want your email. It runs on SES, where a thousand emails cost about ten cents.
+
+- ♾️ **Fast onboarding** onboard in 30 minutes, no need for a marketing team
+- 🛒 **Ecommerce flows** for abandoned cart, browse abandon, win-back, replenishment and cross-sell
+- 🔮 **Predictive segmentation** using RFM, lifetime value and churn risk
+- 💌 **Deliverability suite** with MX validation, disposable-domain screening and reputation monitoring
+- 📊 **Revenue attribution** down to the flow and the product
+- 🔌 **Shopify &amp; WooCommerce** sync out of the box
+
+<img src="https://img.shields.io/badge/agumail.com-coming_soon-F59E0B?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111827" alt="agumail.com, coming soon">
+
+Currently deep in deliverability and import tooling.
 
 <br>
 
@@ -48,25 +67,6 @@ Most storefront chatbots will cheerfully invent a price or a return window. Chat
 <a href="https://chatbuster.com"><img src="https://img.shields.io/badge/chatbuster.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="chatbuster.com"></a>
 
 ⭐⭐⭐⭐⭐ on the Shopify App Store and WordPress.org.
-
-<br>
-
-## 🟡 AguMail · building now
-
-**Ecommerce email marketing without the enterprise price tag.**
-
-Every incumbent charges you by the size of your list, including the people who already unsubscribed. AguMail bills only for contacts who actually want your email. It runs on SES, where a thousand emails cost about ten cents.
-
-- ♾️ **Fast onboarding** onboard in 30 minutes, no need for a marketing team
-- 🛒 **Ecommerce flows** for abandoned cart, browse abandon, win-back, replenishment and cross-sell
-- 🔮 **Predictive segmentation** using RFM, lifetime value and churn risk
-- 💌 **Deliverability suite** with MX validation, disposable-domain screening and reputation monitoring
-- 📊 **Revenue attribution** down to the flow and the product
-- 🔌 **Shopify &amp; WooCommerce** sync out of the box
-
-<img src="https://img.shields.io/badge/agumail.com-coming_soon-F59E0B?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111827" alt="agumail.com, coming soon">
-
-Currently deep in deliverability and import tooling.
 
 <br>
 
