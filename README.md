@@ -43,9 +43,7 @@ Every incumbent charges you by the size of your list, including the people who a
 - 📊 **Revenue attribution** down to the flow and the product
 - 🔌 **Shopify &amp; WooCommerce** sync out of the box
 
-<img src="https://img.shields.io/badge/agumail.com-coming_soon-F59E0B?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111827" alt="agumail.com, coming soon">
-
-Currently deep in deliverability and import tooling.
+<a href="https://agumail.com"><img src="https://img.shields.io/badge/agumail.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="agumail.com"></a>
 
 <br>
 
